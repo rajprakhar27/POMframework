@@ -1,0 +1,132 @@
+2023-07-09 19:42:39,773 INFO Registerpagefunctionality [main] getting path property from config.properties file
+2023-07-09 19:42:39,780 INFO Registerpagefunctionality [main] Reading file from the path
+2023-07-09 19:42:39,780 INFO Registerpagefunctionality [main] opening the workbook
+2023-07-09 19:42:41,615 INFO Registerpagefunctionality [main] getting the individual sheet
+2023-07-09 19:42:41,616 INFO Registerpagefunctionality [main] getting the rows
+2023-07-09 19:42:41,616 INFO Registerpagefunctionality [main] getting each cell values for the particular rows
+2023-07-09 19:42:56,964 INFO Registerpagefunctionality [main] performing click operation on radio button
+2023-07-09 19:42:57,106 INFO Registerpagefunctionality [main] performing click operation on register button
+2023-07-09 19:42:57,690 INFO Registerpagefunctionality [main] Creating new file
+2023-07-09 19:42:57,691 INFO Registerpagefunctionality [main] Creating file writer
+2023-07-09 19:42:57,691 INFO Registerpagefunctionality [main] Creating buffer writer
+2023-07-09 19:42:57,692 INFO Registerpagefunctionality [main] Getting all cookies
+2023-07-09 19:42:58,103 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,104 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,105 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,105 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,106 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,107 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,107 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,108 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,108 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,108 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,108 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,108 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,109 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,109 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,109 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,109 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,113 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,113 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,124 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,125 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,126 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,139 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,140 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:42:58,141 INFO Registerpagefunctionality [main] Task completed succesfuly.......
+2023-07-09 19:42:58,142 INFO Registerpagefunctionality [main] getting the rows
+2023-07-09 19:42:58,142 INFO Registerpagefunctionality [main] getting each cell values for the particular rows
+2023-07-09 19:43:11,772 INFO Registerpagefunctionality [main] performing click operation on radio button
+2023-07-09 19:43:11,841 INFO Registerpagefunctionality [main] performing click operation on register button
+2023-07-09 19:43:12,223 INFO Registerpagefunctionality [main] Creating new file
+2023-07-09 19:43:12,224 INFO Registerpagefunctionality [main] Creating file writer
+2023-07-09 19:43:12,225 INFO Registerpagefunctionality [main] Creating buffer writer
+2023-07-09 19:43:12,225 INFO Registerpagefunctionality [main] Getting all cookies
+2023-07-09 19:43:12,438 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,439 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,439 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,440 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,440 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,440 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,440 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,441 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,441 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,441 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,441 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,442 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,442 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,442 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,442 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,442 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,446 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,446 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,447 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,448 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,449 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,449 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,450 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:12,450 INFO Registerpagefunctionality [main] Task completed succesfuly.......
+2023-07-09 19:43:12,450 INFO Registerpagefunctionality [main] getting the rows
+2023-07-09 19:43:12,450 INFO Registerpagefunctionality [main] getting each cell values for the particular rows
+2023-07-09 19:43:19,191 INFO Registerpagefunctionality [main] performing click operation on radio button
+2023-07-09 19:43:19,286 INFO Registerpagefunctionality [main] performing click operation on register button
+2023-07-09 19:43:19,506 INFO Registerpagefunctionality [main] Creating new file
+2023-07-09 19:43:19,507 INFO Registerpagefunctionality [main] Creating file writer
+2023-07-09 19:43:19,507 INFO Registerpagefunctionality [main] Creating buffer writer
+2023-07-09 19:43:19,507 INFO Registerpagefunctionality [main] Getting all cookies
+2023-07-09 19:43:19,541 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,542 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,542 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,543 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,546 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,547 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,548 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,548 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,548 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,548 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,549 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,549 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,549 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,550 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,550 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,550 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,550 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,551 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,551 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,552 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,553 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,554 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,554 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:19,555 INFO Registerpagefunctionality [main] Task completed succesfuly.......
+2023-07-09 19:43:19,555 INFO Registerpagefunctionality [main] getting the rows
+2023-07-09 19:43:19,555 INFO Registerpagefunctionality [main] getting each cell values for the particular rows
+2023-07-09 19:43:27,009 INFO Registerpagefunctionality [main] performing click operation on radio button
+2023-07-09 19:43:27,087 INFO Registerpagefunctionality [main] performing click operation on register button
+2023-07-09 19:43:27,372 INFO Registerpagefunctionality [main] Creating new file
+2023-07-09 19:43:27,373 INFO Registerpagefunctionality [main] Creating file writer
+2023-07-09 19:43:27,373 INFO Registerpagefunctionality [main] Creating buffer writer
+2023-07-09 19:43:27,373 INFO Registerpagefunctionality [main] Getting all cookies
+2023-07-09 19:43:27,425 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,426 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,426 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,431 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,431 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,432 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,432 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,432 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,433 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,433 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,433 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,435 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,436 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,436 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,436 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,436 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,437 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,437 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,438 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,438 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,438 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,439 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,439 INFO Registerpagefunctionality [main] Getting cookies value
+2023-07-09 19:43:27,440 INFO Registerpagefunctionality [main] Task completed succesfuly.......
